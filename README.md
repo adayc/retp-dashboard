@@ -10,13 +10,15 @@ El dashboard es una herramienta utilizada por profesores, training managers, dir
 *Promedio de notas HSE
 *Promedio de notas técnicas
 
+La primera ventana consta del logueo con un usuario y password
 
+![Dashboard](assets/imgs/login.JPG)
 
-![Dashboard](assets/imgs/login.jpg)
-![Dashboard](assets/imgs/dashboard.jpg)
+En la segunda ventana podemos observar todas las funcionalidades requeridas para el dashboard
+![Dashboard](assets/imgs/dashboard.JPG)
 
 ## Detalles adicionales
--Para esta aplicación se empleó : HTML5, CSS3 y Javascript.
+-Para esta aplicación se empleó Marvel y pueden observar el dashboard online en https://marvelapp.com/5913j6g
 
   
   Cualquier consulta, duda o sugerencia puede realizarla al correo: adayc@hotmail.com
