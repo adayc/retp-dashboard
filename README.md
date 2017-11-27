@@ -1,17 +1,19 @@
-# Trello
+# Dashboard de Laboratoria
 _____________
 
+El dashboard es una herramienta utilizada por profesores, training managers, directores y gerentes de Laboratoria para ver rápidamente qué está pasando en el salón de clases de Laboratoria. En el dashboard, los usuarios mencionados pueden ver rápidamente estadísticas y datos en tiempo real como:
 
-Trello es un gestor de tareas que permite el trabajo de forma colaborativa mediante tableros
-(board) compuestos de columnas (llamadas listas) que representan distintos estados.
-Se basa en el método Kanban para gestión de proyectos, con tarjetas que viajan por diferentes
-listas en función de su estado. Así, se puede tener una lista de cosas por hacer (o pendientes),
-que se están haciendo (o en proceso) o hechas (terminadas).
+*# de alumnas inscritas
+*# de alumnas que desertaron
+*# y % de alumnas que pasan el criterio mínimo de evaluación
+*Promedio de notas por sprint
+*Promedio de notas HSE
+*Promedio de notas técnicas
 
 
 
-
-![Trello](assets/imgs/pic-trello.jpg)
+![Dashboard](assets/imgs/login.jpg)
+![Dashboard](assets/imgs/dashboard.jpg)
 
 ## Detalles adicionales
 -Para esta aplicación se empleó : HTML5, CSS3 y Javascript.
